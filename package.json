@@ -1,0 +1,14 @@
+{
+	"name": "allmedia",
+	"version": "1.0.0",
+	"description": "allmedia",
+	"main": "part1.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Max Thierry Ahirwe",
+	"license": "ISC",
+	"dependencies": {
+		"babar": "^0.2.2"
+	}
+}
