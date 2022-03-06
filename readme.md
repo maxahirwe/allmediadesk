@@ -4,7 +4,9 @@
 
 To test all parts use the following cmds, each program consoles sample of output
 
-Markup : `npm i`
+Intall all packages : `npm i`
+
+#### Test Cases
 
 -   node part1.js
 -   node part2.js
