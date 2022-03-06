@@ -4,7 +4,7 @@
 
 To test all parts use the following cmds, each program consoles sample of output
 
-Intall all packages : `npm i`
+Install all packages : `npm i`
 
 #### Test Cases
 
