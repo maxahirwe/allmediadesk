@@ -4,6 +4,6 @@
 
 To test all parts use the following cmds, each program consoles sample of output
 
-*node part1.js
-*node part2.js
-\*node part3.js
+-   node part1.js
+-   node part2.js
+-   node part3.js
